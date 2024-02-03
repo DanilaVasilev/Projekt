@@ -1,0 +1,38 @@
+html {
+    font-family: Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    background-color: #444;
+    color: #fff000;
+    overflow: hidden;
+    line-height: 2em;
+}
+
+#root {
+    display: flex;
+}
+.App {
+    margin-top: 15px;
+}
+.title{
+	font-size: 36px;
+    margin-left: 750px;
+}
+
+.text{
+	font-size: 20px;
+    margin-left: 600px;
+}
+.A{
+    color:red;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 650px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+A:hover {
+    color: lightgrey;
+  }
+  
