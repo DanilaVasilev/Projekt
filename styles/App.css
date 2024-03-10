@@ -1,10 +1,13 @@
 html {
     font-family: Arial,Helvetica,sans-serif;
+    display: flex;
     letter-spacing: 1px;
-    background-color: #444;
-    color: #fff000;
+    color: black;
     overflow: hidden;
     line-height: 2em;
+    background-image: url(https://celes.club/uploads/posts/2022-11/1667335009_17-celes-club-p-fon-dlya-messendzhera-vk-krasivo-17.png);
+    background-position: center;
+    background-size: cover;
 }
 
 #root {
@@ -15,7 +18,9 @@ html {
 }
 .title{
 	font-size: 36px;
-    margin-left: 750px;
+    display: flex;
+    margin-left:auto;
+    margin-right: auto;
 }
 
 .text{
@@ -35,4 +40,18 @@ html {
 A:hover {
     color: lightgrey;
   }
-  
+.button{
+    display: flex;
+    margin-left: 580px;
+    font-size: 36px;
+}  
+.uge{
+    margin-left: 610px;
+    font-size: 24px;
+    margin-top: 15px;
+}
+.button1{
+    display: flex;
+    margin-left: 600px;
+    font-size: 36px;
+}

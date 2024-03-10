@@ -39,7 +39,7 @@ const Profile = () => {
                     </div>
                     <div>
                          <h3>
-                          <Link to='/profile' className='A'>Выйти с аккаунта</Link>
+                          <Link to='/Registration' className='A'>Выйти с аккаунта</Link>
                          </h3>
                     </div>
                    
